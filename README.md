@@ -93,6 +93,7 @@ Implikasi industri meliputi:
 - Pengambilan keputusan berbasis data yang lebih cepat dan akurat
 - Potensi integrasi langsung ke sistem kontrol pabrik
 ![Histogram Distribusi Temperature](download.png)
+![Substrate Concentration vs Ethanol Yield](.png)
 
 ---
 
