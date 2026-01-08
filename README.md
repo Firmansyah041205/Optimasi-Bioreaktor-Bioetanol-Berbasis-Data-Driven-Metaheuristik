@@ -92,7 +92,7 @@ Implikasi industri meliputi:
 - Penurunan konsumsi energi operasional
 - Pengambilan keputusan berbasis data yang lebih cepat dan akurat
 - Potensi integrasi langsung ke sistem kontrol pabrik
-![Histogram Distribusi Temperature](download(1).png)
+![Histogram Distribusi Temperature](download.png)
 
 ---
 
@@ -117,5 +117,3 @@ Seluruh eksperimen dapat direproduksi menggunakan dataset dan kode yang tersedia
 ---
 
 ## Struktur Repositori
-[coralation matrix](Download(2)png)
-[coralation matrix](Download(1)png)
