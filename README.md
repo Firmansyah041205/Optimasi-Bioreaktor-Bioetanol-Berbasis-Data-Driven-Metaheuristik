@@ -109,10 +109,12 @@ Pendekatan ini memberikan **keunggulan kompetitif** melalui efisiensi energi, pe
 ## Reproducibility
 Notebook Google Colab yang dapat dijalankan ulang tersedia pada tautan berikut:
 
-👉 **[Tambahkan link Google Colab Notebook di sini]**
+👉 **https://colab.research.google.com/drive/1l5PWsM8llh_LKDBFyvaufbCJvWjCF3zd?usp=sharing
 
 Seluruh eksperimen dapat direproduksi menggunakan dataset dan kode yang tersedia pada repositori ini.
 
 ---
 
 ## Struktur Repositori
+[coralation matrix](Download(2)png)
+[coralation matrix](Download(1)png)
